@@ -16,5 +16,11 @@
         "key": "be372c472709fa06",
         "expirydate": "21-12-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "be372c472709fa06",
+        "key": "123",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
+    },
 ]
